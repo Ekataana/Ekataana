@@ -23,10 +23,11 @@ Open to work.
 ![Flutter](https://img.shields.io/badge/-jmeter-black?style=for-the-badge&logo=jmeter)
 ![Flutter](https://img.shields.io/badge/-virtual_box-black?style=for-the-badge&logo=virtualbox)
 ![Flutter](https://img.shields.io/badge/-fiddler-black?style=for-the-badge&logo=fiddler)
-![Flutter](https://img.shields.io/badge/-android_studio-black?style=for-the-badge&logo)
+![Flutter](https://img.shields.io/badge/-android_studio-black?style=for-the-badge&logo=virtualbox)
 
 ## Test documentation
-![Flutter](https://img.shields.io/badge/-Table_of_equivalence_classes-black?style=for-the-badge&logo=virtualbox)
+[![Link](https://img.shields.io/badge/-Table_of_equivalence_classes-white?style=for-the-badge&logo)](https://github.com/Ekataana/Test-design-equivalence-class)
+[![Link](https://img.shields.io/badge/-Table_of_regression-white?style=for-the-badge&logo)](https://github.com/Ekataana/Table-of-regression)
 
 ## Languauges
 - English (B1-B2)
