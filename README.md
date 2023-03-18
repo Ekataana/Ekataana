@@ -1,6 +1,6 @@
 ![Header](https://github.com/Ekataana/Ekataana/blob/main/assets/header.png)
 
-About me
+##Hi, I'm a beginner purposeful Software QA Engineer. 
 
 Tools
 
