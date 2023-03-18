@@ -1,6 +1,7 @@
 ![Header](https://github.com/Ekataana/Ekataana/blob/main/assets/header.png)
 
 ## Hi, I'm a beginner and purposeful Software QA Engineer. 
+Open to work.
 
 ## Skills & Tools
 
@@ -20,14 +21,19 @@
 ![Flutter](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman)
 ![Flutter](https://img.shields.io/badge/-soapui-black?style=for-the-badge&logo=soapui)
 ![Flutter](https://img.shields.io/badge/-jmeter-black?style=for-the-badge&logo=jmeter)
-![Flutter](https://img.shields.io/badge/-virtualbox-black?style=for-the-badge&logo=virtualbox)
+![Flutter](https://img.shields.io/badge/-virtual_box-black?style=for-the-badge&logo=virtualbox)
 ![Flutter](https://img.shields.io/badge/-fiddler-black?style=for-the-badge&logo=fiddler)
-![Flutter](https://img.shields.io/badge/-androidstudio-black?style=for-the-badge&logo=androidstudio)
+![Flutter](https://img.shields.io/badge/-android_studio-black?style=for-the-badge&logo)
 
-Skills
+## Test documentation
+![Flutter](https://img.shields.io/badge/-Table_of_equivalence_classes-black?style=for-the-badge&logo=virtualbox)
 
-Languages
+## Languauges
+- English (B1-B2)
+- Ukrainian
+- Russian
 
-I'm currently learming
+## How to reach me
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/katerina-cherniavska/)
 
-How to reach me
+Email - cherniavskakaterina@gmail.com
