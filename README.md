@@ -25,8 +25,13 @@ Open to work as QA Engineer Manual / Automation
 
 
 ## Test documentation
-[![Link](https://img.shields.io/badge/-Table_of_equivalence_classes-white?style=for-the-badge&logo)](https://github.com/Ekataana/Test-design-equivalence-class)
-[![Link](https://img.shields.io/badge/-Table_of_regression-white?style=for-the-badge&logo)](https://github.com/Ekataana/Table-of-regression)
+[Checklist](https://github.com/Ekataana/Check-list-AliExpress)
+
+[Table of equivalence classes](https://github.com/Ekataana/Test-design-equivalence-class)
+
+[Table of regression](https://github.com/Ekataana/Table-of-regression)
+
+
 
 ## Languauges
 - English (B1-B2)
@@ -34,6 +39,9 @@ Open to work as QA Engineer Manual / Automation
 - Russian
 
 ## How to reach me
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/katerina-cherniavska/)
+[LinkedIn](https://www.linkedin.com/in/katerina-cherniavska/)
 
-Email - cherniavskakaterina@gmail.com
+[Email](cherniavskakaterina@gmail.com)
+
+[def]: https://img.shields.io/badge/-Check-list-AliExpress-white?style=for-the-badge&logo
+[def2]: https://github.com/Ekataana/Check-list-AliExpress
