@@ -24,24 +24,26 @@ Open to work as QA Engineer Manual / Automation
 ![Flutter](https://img.shields.io/badge/-virtual_box-black?style=for-the-badge&logo=virtualbox)
 
 
-## Test documentation
-[Checklist](https://github.com/Ekataana/Check-list-AliExpress)
+## It might be interesting
+[Checklist Aliexpress](https://docs.google.com/spreadsheets/d/1rASZO6llpiqKp1Og_kPpaIeOnnREucHIU8pLPq9M0IE/edit?usp=sharing)
 
-[Table of equivalence classes](https://github.com/Ekataana/Test-design-equivalence-class)
+[Regression cases](https://docs.google.com/spreadsheets/d/1MD-Wz-praAzDy1K3TtCjcae1GX09f_HpxAXCn1gYrWw/edit?usp=sharing)
 
-[Table of regression](https://github.com/Ekataana/Table-of-regression)
+[HTTP methods](https://docs.google.com/spreadsheets/d/1aIkdFSgCS7iUeqG-MnQBWCCRq6xXHLsilzUROJSy6-E/edit?usp=sharing)
+
+[Short Python script](https://github.com/Ekataana/byStepik-first-)
 
 
 
 ## Languauges
 - English (B1-B2)
-- Ukrainian
-- Russian
+- Ukrainian(native)
+- Russian(native)
 
-## How to reach me
-[LinkedIn](https://www.linkedin.com/in/katerina-cherniavska/)
+## Message me
+[LinkedIn](https://www.linkedin.com/in/kateryna-cherniavska/)
 
-[Email](cherniavskakaterina@gmail.com)
+Or Email: cherniavskakaterina@gmail.com
 
 [def]: https://img.shields.io/badge/-Check-list-AliExpress-white?style=for-the-badge&logo
 [def2]: https://github.com/Ekataana/Check-list-AliExpress
