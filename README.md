@@ -1,6 +1,6 @@
 ![Header](https://github.com/Ekataana/Ekataana/blob/main/assets/header.png)
 
-## Hi, I'm a beginner and purposeful Software QA Engineer. 
+## Purposeful and hardworking Software Quality Assurance Specialist 
 Open to work as QA Engineer Manual / Automation
 
 ## Tools
