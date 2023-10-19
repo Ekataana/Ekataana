@@ -25,6 +25,10 @@ Open to work as QA Engineer Manual / Automation
 
 
 ## It might be interesting
+[API library (pets)](https://github.com/Ekataana/API_pets)
+
+[UI tests project (pets)](https://github.com/Ekataana/Selenium_UI_Pet)
+
 [Checklist Aliexpress](https://docs.google.com/spreadsheets/d/1rASZO6llpiqKp1Og_kPpaIeOnnREucHIU8pLPq9M0IE/edit?usp=sharing)
 
 [Regression cases](https://docs.google.com/spreadsheets/d/1MD-Wz-praAzDy1K3TtCjcae1GX09f_HpxAXCn1gYrWw/edit?usp=sharing)
