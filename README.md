@@ -1,7 +1,7 @@
 ![Header](https://github.com/Ekataana/Ekataana/blob/main/assets/header.png)
 
-## Purposeful and hardworking Software Quality Assurance Specialist 
-Open to work as QA Engineer Manual / Automation
+## Purposeful and hardworking Automation Quality Assurance Specialist 
+Open to work as QA Engineer Manual / Automation (Python)
 
 ## Tools
 
@@ -29,22 +29,13 @@ Open to work as QA Engineer Manual / Automation
 
 [UI tests project (pets)](https://github.com/Ekataana/Selenium_UI_Pet)
 
-[Checklist Aliexpress](https://docs.google.com/spreadsheets/d/1rASZO6llpiqKp1Og_kPpaIeOnnREucHIU8pLPq9M0IE/edit?usp=sharing)
-
-[Regression cases](https://docs.google.com/spreadsheets/d/1MD-Wz-praAzDy1K3TtCjcae1GX09f_HpxAXCn1gYrWw/edit?usp=sharing)
+[Postman Collection](https://github.com/Ekataana/Postman-User-Collection)
 
 [HTTP methods](https://docs.google.com/spreadsheets/d/1aIkdFSgCS7iUeqG-MnQBWCCRq6xXHLsilzUROJSy6-E/edit?usp=sharing)
 
-[Short Python script](https://github.com/Ekataana/byStepik-first-)
 
 
-
-## Languauges
-- English (B1-B2)
-- Ukrainian(native)
-- Russian(native)
-
-## Message me
+## Contact me
 [LinkedIn](https://www.linkedin.com/in/kateryna-cherniavska/)
 
 Or Email: cherniavskakaterina@gmail.com
